@@ -5,6 +5,7 @@
 
 - [Install BepInEx 5](https://github.com/BepInEx/BepInEx/releases) 
 - Download and drop the SBG-EZLobbyLink.dll file in the \BepInEx\plugins folder of your Super Battle Golf Installation
+- Press Escape while in a match, and click "Copy Steam Invite Link".
 
 
 ## Building for source
